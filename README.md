@@ -8,7 +8,7 @@
 |----|------|
 | 1  | ash  |
 
-### Pokemon
+### Pokemon
 
 | id | name    | hp  | level | category |
 |----|---------|-----|-------|----------|
